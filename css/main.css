@@ -1,0 +1,14 @@
+/* AF DESIGNZ CSS Document */
+@charset "utf-8";
+@import 'https://fonts.googleapis.com/css?family=Paytone+One|Poppins:300,400,500,600';
+
+body{ margin:0px; padding:0px; background:#fff; font-family: 'Poppins', sans-serif, Arial; font-weight:300;}
+
+
+td{ padding:10px 0 0 0;}
+	
+h2{font-size:20px; font-family: 'Paytone One', sans-serif; color:#ffd85e; margin:0; text-transform:uppercase;}
+h3{font-size:14px; color:#fff; margin:0; font-weight:300;}
+h3 span{ font-weight:400;}
+h4{font-size:18px; color:#333; font-weight:500; text-align:center;}
+p{font-size:15px; color:#333; text-align:center; margin:3px;}
